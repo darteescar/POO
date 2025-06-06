@@ -5,13 +5,14 @@ Projeto de grupo desenvolvido no âmbito da UC de POO.
 O projeto consiste numa aplicação que faz a gestão das músicas, álbuns e listas de reprodução que os utilizadores podem ouvir. 
 Pode consultar o devido [enunciado](TP_POO_2425.pdf) e o respetivo [relatório](Relatório_POO_2425.pdf) (ambos em português).
 
-**Membros do grupo:**
+## Membros do grupo:
 
 * [darteescar](https://github.com/darteescar)
 * [luis7788](https://github.com/luis7788)
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 
-**Para utilizar o programa precisa de fazer:**
+## Ambiente de desenvolvimento
+Para utilizar o programa faça:
 
 ```bash
 $ cd spotifyUM
@@ -49,18 +50,20 @@ $ ./gradlew clean
 
 ### Nota:
 
-Para utilizar a aplicação previamente povoada, escolha no menu principal a opção 4 e utilize os ficheiros disponibilizados .
+Para utilizar a aplicação previamente povoada, escolha no menu principal a opção 4 e utilize os ficheiros disponibilizados.
 
 # SpotifyUM (English)
 Group project developed in the scope of the OOP course.
 The project consists of an application that manages the songs, albums, and playlists that users can listen to.
 You can check the respective [statement](TP_POO_2425.pdf) and the respective [report](Relatório_POO_2425.pdf) (both in Portuguese).
-**Group members:**
+
+## Group members:
 * [darteescar](https://github.com/darteescar)
 * [luis7788](https://github.com/luis7788)
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 
-**To use the program you need to do:**
+## Development Environment
+To use the program, do:
 
 ```bash
 $ cd spotifyUM
