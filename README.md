@@ -5,7 +5,7 @@ Projeto de grupo desenvolvido no âmbito da UC de POO.
 O projeto consiste numa aplicação que faz a gestão das músicas, álbuns e listas de reprodução que os utilizadores podem ouvir. 
 Pode consultar o devido [enunciado](TP_POO_2425.pdf) e o respetivo [relatório](Relatorio-POO.pdf) (ambos em português).
 
-## Nota Final: 18 / 20 ⭐️
+### Nota Final: 18 / 20 ⭐️
 
 ## Membros do grupo:
 
@@ -59,7 +59,7 @@ Group project developed in the scope of the OOP course.
 The project consists of an application that manages the songs, albums, and playlists that users can listen to.
 You can check the respective [statement](TP_POO_2425.pdf) and the respective [report](Relatorio-POO.pdf) (both in Portuguese).
 
-## Final Mark: 18 / 20 ⭐️
+### Final Mark: 18 / 20 ⭐️
 
 ## Group members:
 * [darteescar](https://github.com/darteescar)
