@@ -59,7 +59,7 @@ Group project developed in the scope of the OOP course.
 The project consists of an application that manages the songs, albums, and playlists that users can listen to.
 You can check the respective [statement](TP_POO_2425.pdf) and the respective [report](Relatorio-POO.pdf) (both in Portuguese).
 
-## Final Grade: 18 / 20 ⭐️
+## Final Mark: 18 / 20 ⭐️
 
 ## Group members:
 * [darteescar](https://github.com/darteescar)
