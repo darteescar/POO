@@ -3,7 +3,7 @@
 Projeto de grupo desenvolvido no âmbito da UC de POO.
 
 O projeto consiste numa aplicação que faz a gestão das músicas, álbuns e listas de reprodução que os utilizadores podem ouvir. 
-Pode consultar o devido [enunciado](TP_POO_2425.pdf) e o respetivo [relatório](Relatorio-POO.pdf) (ambos em português)
+Pode consultar o devido [enunciado](TP_POO_2425.pdf) e o respetivo [relatório](Relatorio-POO.pdf) (ambos em português).
 
 ### Nota Final: 18 / 20 ⭐️
 
